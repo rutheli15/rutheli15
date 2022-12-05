@@ -7,7 +7,6 @@
 - Tengo 14 año,y soy de venezuela edo aragua 🙃
 -  Me gusta escuchar musica
 -  Estudio en el liceo antonio iglesias
--  Mi pelicula preferida es atravez de mi ventana.
 <!---
 rutheli15/rutheli15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
